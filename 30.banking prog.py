@@ -37,7 +37,7 @@ def main():
     while sys:
         print('***Interface***')
         choice=input('''1)SHOW BALANCE
-            2)DEPOSIT
+2)DEPOSIT
 3)WITHDRAW
 4)Exit\n:''')
         if choice=='1':
